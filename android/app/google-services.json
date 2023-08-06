@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "277880788372",
+    "project_id": "olaflutter-b4aee",
+    "storage_bucket": "olaflutter-b4aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277880788372:android:efa5201308656f3fc3eb81",
+        "android_client_info": {
+          "package_name": "com.example.shop_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277880788372-bjrv9g82dfj0553lfedifcq6c2ob1sj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxQ5wbNOm2dzxtlhsEAEIBiemMqGQU_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277880788372-bjrv9g82dfj0553lfedifcq6c2ob1sj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277880788372-b7piegcgtkcd7tkcjdbkp8j3tlpidrrh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopAppFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
